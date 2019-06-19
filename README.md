@@ -1,6 +1,8 @@
 # Portfolio
 Job Portfolio
 
+Check Releases Tab for files
+
 Job application portfolio
 
 1) Conways Game of Life
